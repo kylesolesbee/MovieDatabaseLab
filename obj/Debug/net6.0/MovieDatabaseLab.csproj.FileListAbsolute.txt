@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.exe
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.deps.json
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.runtimeconfig.json
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.dll
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\bin\Debug\net6.0\MovieDatabaseLab.pdb
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.AssemblyInfo.cs
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.dll
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\refint\MovieDatabaseLab.dll
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.pdb
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\MovieDatabaseLab.genruntimeconfig.cache
+C:\Users\ksole\Documents\GrandCircus\MovieDatabaseLab\obj\Debug\net6.0\ref\MovieDatabaseLab.dll
